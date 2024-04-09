@@ -4,6 +4,14 @@
   This is a p tag
 </p>
 
+<section style="background-color: gray;">
+  This is a section tag
+</section>
+
+<div style="background-color: gray;">
+  This is a div tag
+</div>
+
 ## About Me
 [Add a brief introduction about yourself, your skills, and your interests]
 
