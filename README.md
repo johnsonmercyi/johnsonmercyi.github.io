@@ -1,5 +1,9 @@
 # Welcome to my GitHub Portfolio!
 
+<p style="background-color: gray;">
+  This is a p tag
+</p>
+
 ## About Me
 [Add a brief introduction about yourself, your skills, and your interests]
 
