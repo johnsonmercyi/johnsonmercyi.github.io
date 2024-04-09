@@ -16,3 +16,6 @@
 
 ## Contact
 [Provide your contact information, such as email, LinkedIn, or other relevant links]
+
+## Statistics
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnsonmercyi)](https://github.com/anuraghazra/github-readme-stats)
